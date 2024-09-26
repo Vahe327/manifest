@@ -1,5 +1,5 @@
 {
   "url": "https://bot.bmw-ton.io/",
-  "name": "Loto Projekt",
+  "name": "BMW_Lottery",
   "iconUrl": "https://logo.bmw-ton.io/bmw1.png"
 }
