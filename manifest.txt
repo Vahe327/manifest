@@ -1,5 +1,19 @@
 {
   "url": "https://bot.bmw-ton.io/",
   "name": "BMW_Lottery",
-  "iconUrl": "https://logo.bmw-ton.io/bmw1.png"
+  "iconUrl": "https://logo.bmw-ton.io/bmw1.png",
+  "tonconnect": {
+    "wallets": [
+      {
+        "name": "Tonkeeper",
+        "bridgeUrl": "https://connect.tonkeeper.com/tonconnect",
+        "universalLink": "https://app.tonkeeper.com/ton-connect"
+      },
+      {
+        "name": "MyTonWallet",
+        "bridgeUrl": "https://connect.mytonwallet.org/tonconnect",
+        "universalLink": "https://mytonwallet.org/ton-connect"
+      }
+    ]
+  }
 }
